@@ -1,0 +1,13 @@
+title = 'configuration file for our program'
+
+[servers]
+
+[servers.server1]
+host = 'localhost'
+port = '4010'
+
+[users]
+
+[users.user1]
+username = 'user'
+password = 'qwerty123456'
